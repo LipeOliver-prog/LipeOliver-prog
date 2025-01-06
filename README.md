@@ -1,10 +1,19 @@
-- 👋 Ola, me chamo @LipeOliver-prog.
-- 👀  meu interesse esta por encanto em front-end. 
-- 💞️ gosto de diversifica os estudos.
-- 📫 gosto da colaboração de trabalho em equipe.
+ Olá! Eu sou o Lipe Oliver 👋
+
+ Sobre Mim
+- 💻 Sou um estudante de tecnologia e programação, sempre buscando diversificar meus estudos e projetos.
+- 💞️ Apaixonado por colaborar e trabalhar em equipe.
+
+Minhas Habilidades
+Aqui estão algumas das tecnologias com as quais já trabalhei:
+
+- Linguagens Front-End: HTML, CSS, JavaScript
+- Linguagens Back-End: PHP, C#
+- Banco de Dados: MySQL
+
+ Como Me Encontrar
+📫 Se você gosta de trocar ideias ou trabalhar em projetos colaborativos, fique à vontade para me chamar por aqui!
 
 
-<!---
-LipeOliver-prog/LipeOliver-prog is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+> Este perfil é um espaço para compartilhar projetos e aprender cada vez mais. Obrigado por visitar!
